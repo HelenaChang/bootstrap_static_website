@@ -1,0 +1,43 @@
+    .btn {
+        border-width: 2px;
+    }
+    
+    .form-control {
+        border-width: 2px;
+    }
+    
+    .header-carousel-item {
+        height: 480px;
+    }
+    
+    .bg-cover {
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    .carousel-caption {
+        height: 120px;
+        padding: 10px 15px;
+        background: rgba(0, 0, 0, 0.35);
+    }
+    
+    .features {
+        color: #fff;
+    }
+    
+    .features h3 {
+        margin-top: 5px;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+    
+    @media(min-width:768px) {
+        .text-md-dark {
+            color: #333333;
+        }
+    }
+    
+    h3.title,
+    h4.title {
+        font-weight: bold;
+    }
